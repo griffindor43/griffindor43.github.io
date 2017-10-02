@@ -777,7 +777,7 @@
 
                                            <div class="col-lg-3 col-md-3 col-xs-6">
                                                 <!-- Name -->
-                                     			<br> 	<button type="submit" id="submit" name="submit" onclick="javascript:window.location='reg_successful.html'" class="text-center form-btn form-btn">&emsp;Отправить&emsp;&emsp;</button>      
+                                     			<br> 	<button type="submit" id="submit" name="submit" onclick="javascript:window.location='registration_successfull.html'" class="text-center form-btn form-btn">&emsp;Отправить&emsp;&emsp;</button>      
                                           <!-- <button type="submit" id="submit" name="submit" onclick="javascript:window.location='ggg.html'" class="text-center form-btn form-btn">Пара: м+ж</button>-->                                                 		
                                            <!--        <input type="email" name="email" id="email" required="required" class="form" placeholder="Email" />-->
                                            <!--     <input type="text" name="phone" id="phone" required="required" class="form" placeholder="Phone" />-->
