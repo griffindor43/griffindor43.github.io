@@ -32,6 +32,11 @@ p.desc-text{
     line-height: 35px;
     text-align: justify;
 }
+p.desc-text1{
+    font-size: 20px;
+    line-height: 35px;
+    text-align: center;
+}
 .text-content.container {
     margin-top: 65px;
     margin-bottom: -51px;
@@ -173,7 +178,7 @@ h1, h2, p, span, a {
 =========================*/
 div#bs-example-navbar-collapse-1 {
     height: 368px;
-    overflow: hidden;
+    /*overflow: hidden;*/
     text-align: center;
     text-decoration: none !important;
 }
@@ -271,7 +276,7 @@ INTRO CONTAINER
 
 .beer.background_content{
     background: url('../images1/wide picture/in use/for whom.jpg') no-repeat center center; 
-    background-size: cover;
+    background-size: contain;
     background-position: 70% 70%;
 }
 
@@ -281,23 +286,23 @@ INTRO CONTAINER
     background-position: 70% 50%;
 }
  .featured.background_content{
-    background: url('../images1/wide picture/in use/3 manyat1.jpg') no-repeat center center; 
-    background-size: cover;
+    background: url('../images1/wide picture/in use/3f.jpg') no-repeat center center; 
+    background-size: contain;
     background-position: 70% 70%;
     <!--background-position: center;-->
     <!--background-attachment: fixed;-->
 }
 
  .feedback.background_content{
-    background: url('../images1/wide picture/in use/3.jpg') no-repeat center center; 
-    background-size: cover;
+    background: url('../images1/wide picture/in use/2bed.jpeg') no-repeat center center; 
+    background-size: contain;
     background-position: center;
     background-attachment: fixed;
 }
 
  .pricing.background_content{
     background: url('../images1/wide picture/in use/for whom.jpg') no-repeat center center; 
-    background-size: cover;
+    background-size: contain;
     background-position: center;
     background-attachment: fixed;
 }
@@ -309,7 +314,67 @@ INTRO CONTAINER
 }
 .bread.background_content{
     background: url('../images1/wide picture/in use/1+1.1.jpg') no-repeat center center; 
-    background-size: cover;
+    background-size: contain;
+    background-position: center;
+    background-attachment: fixed;
+}
+.women_massage_classic{
+    background: url('../images1/wide picture/in use/massage for girl.jpg') no-repeat center center; 
+    background-size: contain;
+    background-position: center;
+    background-attachment: fixed;
+}
+.reservationrelax.background_content{
+    background: url('../images1/wide picture/in use/massage for girl.jpg') no-repeat center center; 
+    background-size: contain;
+    background-position: center;
+    background-attachment: fixed;
+}
+.reservationero.background_content{
+    background: url('../images1/wide picture/in use/erotic massage for woman.jpeg') no-repeat center center; 
+    background-size: contain;
+    background-position: center;
+    background-attachment: fixed;
+}
+.reservationerostrip.background_content{
+    background: url('../images1/wide picture/in use/2 strip massage.jpeg') no-repeat center center; 
+    background-size: contain;
+    background-position: center;
+    background-attachment: fixed;
+}
+.reservationdoubleerostrip.background_content{
+    background: url('../images1/wide picture/in use/3.jpg') no-repeat center center; 
+    background-size: contain;
+    background-position: center;
+    background-attachment: fixed;
+}
+.reservationrelaxmen.background_content{
+    background: url('../images1/wide picture/in use/massage for men.jpeg') no-repeat center center; 
+    background-size: contain;
+    background-position: center;
+    background-attachment: fixed;
+}
+.reservationeromen.background_content{
+    background: url('../images1/wide picture/in use/erotic massage for man.jpg') no-repeat center center; 
+    background-size: contain;
+    background-position: center;
+    background-attachment: fixed;
+}
+.reservationerostripmen.background_content{
+    background: url('../images1/wide picture/in use/ero_strip.jpg') no-repeat center center; 
+    background-size: contain;
+    background-position: center;
+    background-attachment: fixed;
+}
+.reservationdoubleerostripmen.background_content{
+    background: url('../images1/wide picture/in use/2+1.2.jpg') no-repeat center center; 
+    background-size: contain;
+    background-position: center;
+    background-attachment: fixed;
+}
+.reservationallnight.background_content{
+    background: url('../images1/wide picture/in use/all_night girl.jpg') no-repeat center center; 
+    background-size: contain;
     background-position: center;
     background-attachment: fixed;
 }

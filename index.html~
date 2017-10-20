@@ -6,8 +6,8 @@
         <title>Вечеринка "Жаркий женский день"</title>
         <link rel="stylesheet" href="css/normalize.css">
         <link rel="stylesheet" href="css/main.css" media="screen" type="text/css">
-        <link href='http://fonts.googleapis.com/css?family=Pacifico' rel='stylesheet' type='text/css'>
-        <link href='http://fonts.googleapis.com/css?family=Playball' rel='stylesheet' type='text/css'>
+        <!--<link href='http://fonts.googleapis.com/css?family=Pacifico' rel='stylesheet' type='text/css'>
+        <link href='http://fonts.googleapis.com/css?family=Playball' rel='stylesheet' type='text/css'>-->
         <link rel="stylesheet" href="css/bootstrap.css">
         <link rel="stylesheet" href="css/style-portfolio.css">
         <link rel="stylesheet" href="css/picto-foundry-food.css" />
@@ -41,7 +41,7 @@
                             <li><a class="color_animation" href="index.html#story">ЧТО ЭТО?</a></li> 
                             <li><a class="color_animation" href="index.html#whom">КОГО МЫ ЖДЁМ ЗДЕСЬ?</a></li>
                             <li><a class="color_animation" href="index.html#whatwaits">ЧТО ЖДЁТ ТЕБЯ?</a></li>
-                            <li><a class="color_animation" href="index.html#bread">ИНТЕРЬЕР</a></li>
+                            <li><a class="color_animation" href="index.html#interior">ИНТЕРЬЕР</a></li>
                             <li><a class="color_animation" href="index.html#feedback">ОТЗЫВЫ</a></li>
                             <li><a class="color_animation" href="index.html#registration">ЗАРЕГИСТРИРОВАТЬСЯ</a></li>
                            <!-- <li><a class="color_animation" href="index.html#reservation">RESERVATION</a></li> -->
@@ -79,6 +79,7 @@
                    </div>
                 </div>
                 <div class="col-md-6 col-md-offset-1">
+                <br>
                     <h1>ЧТО ЭТО?</h1>
                     <!--<div class="icon-beer fa-2"></div> -->
                     <p class="desc-text">  </p>
@@ -92,85 +93,6 @@
                 </div>
             </div>
         </section>
-
-
-       <!-- ============ Our Bread  ============= -->
-
-        <!-- ============ About Us ============= 
-
-        <section id="story" class="description_content">
-            <div class="text-content container">
-                <div class="col-md-6">
-                    <h1>About us</h1>
-                    <div class="fa fa-cutlery fa-2x"></div>
-                    <p class="desc-text">Restaurant is a place for simplicity. Good food, good beer, and good service. Simple is the name of the game, and we’re good at finding it in all the right places, even in your dining experience. We’re a small group from Denver, Colorado who make simple food possible. Come join us and see what simplicity tastes like.</p>
-                </div>
-                <div class="col-md-6">
-                    <div class="img-section">
-                       <img src="images/kabob.jpg" width="250" height="220">
-                       <img src="images/limes.jpg" width="250" height="220">
-                       <div class="img-section-space"></div>
-                       <img src="images/radish.jpg"  width="250" height="220">
-                       <img src="images/corn.jpg"  width="250" height="220">
-                   </div>
-                </div>
-            </div>
-        </section>
-
-  		 <!-- ============ About Us ============= -->
-		
-		
-       <!-- ============ Pricing  ============= -->
-
-
-       <!-- <section id ="pricing" class="description_content">
-          <!--   <div class="pricing background_content">
-                <h1><span>Для кого же весь этот блядюшничек?</span> </h1>
-             </div>
-           <!-- <div class="text-content container"> 
-                <div class="container">
-                    <div class="row">
-                        <div id="w">
-                        <!--    <ul id="filter-list" class="clearfix">
-                                <li class="filter" data-filter="all">All</li>
-                                <li class="filter" data-filter="breakfast">Breakfast</li>
-                                <li class="filter" data-filter="special">Special</li>
-                                <li class="filter" data-filter="desert">Desert</li>
-                                <li class="filter" data-filter="dinner">Dinner123</li>
-                            </ul><!-- @end #filter-list -->    
-                         <!--   <ul id="portfolio">
-                                <li class="item breakfast"><img src="images/food_icon01.jpg" alt="Food" >
-                                    <h2 class="white">$20</h2>
-                                </li>
-
-                                <li class="item dinner special"><img src="images/food_icon02.jpg" alt="Food" >
-                                    <h2 class="white">$20</h2>
-                                </li>
-                                <li class="item dinner breakfast"><img src="images/food_icon03.jpg" alt="Food" >
-                                    <h2 class="white">$18</h2>
-                                </li>
-                                <li class="item special"><img src="images/food_icon04.jpg" alt="Food" >
-                                    <h2 class="white">$15</h2>
-                                </li>
-                                <li class="item dinner"><img src="images/food_icon05.jpg" alt="Food" >
-                                    <h2 class="white">$20</h2>
-                                </li>
-                                <li class="item special"><img src="images/food_icon06.jpg" alt="Food" >
-                                    <h2 class="white">$22</h2>
-                                </li>
-                                <li class="item desert"><img src="images/food_icon07.jpg" alt="Food" >
-                                    <h2 class="white">$32</h2>
-                                </li>
-                                <li class="item desert breakfast"><img src="images/food_icon08.jpg" alt="Food" >
-                                    <h2 class="white">$38</h2>
-                                </li>
-                            </ul><!-- @end #portfolio -->
-                       <!-- </div><!-- @end #w -->
-                 <!--   </div>
-                </div>
-            </div>  -->
-        <!--</section>-->
-
 
         <!-- ============ Our Beer  ============= -->
 
@@ -191,11 +113,9 @@
                     							  </br> В общем, всё это и еще много чего интересного ты сможешь попробовать у нас!</p>
                 </div>
                 <div class="col-md-6">
-                    <img src="images1/wide picture/in use/1+1.jpg" width="248" alt="Bread">
-                    <img src="images1/wide picture/in use/2.4ee.jpg" width="260" alt="Bread">
+                    <img src="images1/wide picture/in use/girls.jpg" width="100%" alt="girls">
                 </div>
-            </div>            
-            
+            </div>                           
 					<br>		
 					</br>
 					</br>            
@@ -203,7 +123,7 @@
             <div class="text-content container"> 
                 <div class="col-md-5">
                    <div class="img-section">
-                       <img src="images1/wide picture/in use/2+1.3.jpg" width="100%">
+                       <img src="images1/wide picture/in use/2+1.3.1.png" width="100%">
                    </div>
                 </div>
                 <br>
@@ -230,24 +150,11 @@
 													  </br> Тогда наша вечеринка - именно то, что вам нужно!	</p>
                 </div>
                 <div class="col-md-6">
-                    <img src="images1/wide picture/in use/2+1.jpg" width="400" alt="Bread">
+                    <img src="images1/wide picture/in use/2+1.jpg" width="100%" alt="couple">
                     
                 </div>
             </div>           
             
-            <!--<div class="text-content container"> 
-                <div class="col-md-5">
-                   <div class="img-section">
-                       <img src="images/beer_spec.jpg" width="100%">
-                   </div>
-                </div>
-                <br>
-                <div class="col-md-6 col-md-offset-1">
-                    <h1>OUR BEER</h1>
-                    <div class="icon-beer fa-2x"></div>
-                    <p class="desc-text">Here at Restaurant we’re all about the love of beer. New and bold flavors enter our doors every week, and we can’t help but show them off. While we enjoy the classics, we’re always passionate about discovering something new, so stop by and experience our craft at its best.</p>
-                </div>
-            </div> -->
         </section>
 
 
@@ -262,20 +169,22 @@
    			<div class="text-content container"> 
                 <div class="col-md-6">
                
-                    <h1>СЕКСУАЛЬНЫЕ СТРИПТИЗЁРШИ-АНИМАТОРЫ</h1>
+                    <h1>4 СЕКСУАЛЬНЫЕ СТРИПТИЗЁРШИ-АНИМАТОРЫ</h1>
                     <!--<div class="icon-bread fa-2x"></div> -->
-                    <p class="desc-text"><br>  Наши обворожительные стриптизёрши никого не оставят равнодушным! 
+                    <p class="desc-text">	<br>Наши обворожительные стриптизёрши никого не оставят равнодушным! 
                     									  Своими танцами они разожгут огонь в каждом мужчине! 
-													</br>	  Своими нежными прикосновениями они возбудят даже самых скромных и невинных девушек,
+														<br>
+														<br>Своими нежными прикосновениями они возбудят даже самых скромных и невинных девушек,
                     									  а затем отдадут их в заботливые руки наших джентельменов! 
 															  Дикий, горячий, безудержный секс как волной накроет всех и каждого! 
-													</br>	  Кстати! Для самых внимательных посетителей у нас специальный бонус:
+														</br>
+														<br>Кстати! Для самых внимательных посетителей у нас специальный бонус:
 															  найди на нашем сайте три секретных кода, сообщи их нашей голубоглазой танцовщице-аниматору Веронике и 
 															  получи от неё приглашение на конкурс, трое победителей которых сразу после окончания развлекательного 
 															  шоу получат от неё и её подруг поистине райские призы;)</p>
                 </div>
                 <div class="col-md-6">
-                    <img src="images1/wide picture/in use/animators2.jpg" height="550" alt="Bread">
+                    <img src="images1/wide picture/in use/animators2.jpg" height="100%" alt="Bread">
                     
                 </div>
             </div>                    
@@ -289,13 +198,11 @@
                 <div class="col-md-6">
                     <h1>Комната для ролевых игр и БДСМ</h1>
                     <!--<div class="icon-bread fa-2x"></div> -->
-                    <p class="desc-text"><br>Хотя ролевые игры в этот вечер будут везде,  
-													</br>	одну комнату мы оборудуем именно для этого. 
+                    <p class="desc-text"><br>Для ценителей ролевых игр и БДСМ мы оборудовали отдельную комнату. 
 													</br>	Но что именно будет ждать вас там - пока секрет;)</p>
                 </div>
                 <div class="col-md-6">
-                    <img src="images1/wide picture/in use/bdsm1.jpg" width="260" alt="Bread">
-                    <img src="images1/wide picture/in use/bdsm2.jpg" width="256" alt="Bread">
+                    <img src="images1/wide picture/in use/bdsm3.jpg" width="560" alt="BDSM">
                 </div>
             </div>              
             
@@ -306,10 +213,9 @@
             <div class="text-content container"> 
                 <div class="col-md-5">
                    <div class="img-section">
-                       <img src="images1/wide picture/in use/pool5.jpg" width="115%">
+                       <img src="images1/wide picture/in use/pool5.jpg" width="100%">
                    </div>
                 </div>
-                <br>
                 <div class="col-md-6 col-md-offset-1">
                     <h1>Две комнаты с джакузи</h1>
                     
@@ -319,7 +225,8 @@
                     									не сможет забыть этого наслаждения. Код №1: "Стань"
 															Ну а те красавицы, которые еще не успели вкусить это, 
 															непременно воспользуйтесь этой возможностью!
-													<br>	Кстати, одна из наших танцовщиц как-то рассказала, 
+													<br>	
+													<br>  Кстати, одна из наших танцовщиц как-то рассказала, 
 															что самые яркие ощущения после джакузи она испытывала 
 															от кунилингуса, которым наградила её подруга, одновременно с анальным сексом:)</p>
                 </div>
@@ -332,14 +239,10 @@
             <div class="text-content container"> 
                 <div class="col-md-5">
                    <div class="img-section">
-                       <img src="images1/wide picture/in use/in bed t.jpg" width="115%">
+                       <img src="images1/wide picture/in use/in bed code.jpg" width="100%" alt="girls in bed" >
                    </div>
                 </div>
-                
-                <br>
-                </br>
-                </br>
-                </br>
+                               
                 
                 <div class="col-md-6 col-md-offset-1">
                     <h1>Огромные кровати "Ложе императора"</h1>
@@ -375,7 +278,7 @@
                     								    оценят даже самые прихотливые принцессы:)</p>
                 </div>
                 <div class="col-md-6">
-                    <img src="images1/wide picture/in use/1+1.0.jpg" width="600" alt="Bread">
+                    <img src="images1/wide picture/in use/1+1.0.jpg" width="100%" alt="in bed">
                     
                 </div>
             </div>  
@@ -400,7 +303,7 @@
                 </div>
                 <div class="col-md-6">
                 <br></br></br></br></br>
-                    <img src="images1/wide picture/in use/on sofa 3.jpg" width="600" alt="Bread">
+                    <img src="images1/wide picture/in use/on sofa 3.jpg" width="100%" alt="Bread">
                     
                 </div>
             </div>  
@@ -412,10 +315,9 @@
             <div class="text-content container"> 
                 <div class="col-md-5">
                    <div class="img-section">
-                       <img src="images1/wide picture/in use/2.png" width="115%">
+                       <img src="images1/wide picture/in use/2.png" width="100%">
                    </div>
                 </div>
-                <br>
                 <div class="col-md-6 col-md-offset-1">
                     <h1>Комната для отдыха</h1>
                     
@@ -430,7 +332,7 @@
             <div class="text-content container"> 
                 <div class="col-md-5">
                    <div class="img-section">
-                       <img src="images1/wide picture/in use/condom.jpg" width="115%">
+                       <img src="images1/wide picture/in use/condom.jpg" width="100%">
                    </div>
                 </div>
                 <br>
@@ -457,13 +359,77 @@
                
                     <h1>Бассейн-джакузи с чистой проточной водой, коктейль-бар и кальяны</h1>
                     <!--<div class="icon-bread fa-2x"></div> -->
-                    <p class="desc-text"><br>  Чтобы сделать этот вечер ещё более изысканным и незабываемым, код №3:"скорее" наши официанты будут подавать самые диковинные коктейли прямо в бассейн!</p>
+                    <p class="desc-text"><br>  Чтобы сделать этот вечер ещё более изысканным и незабываемым, код №3:"скорее" наши официанты будут подавать разнообразные напитки и самые диковинные коктейли прямо в бассейн!</p>
                 </div>
                 <div class="col-md-6">
-                    <img src="images1/wide picture/in use/pool0n.jpeg" width="600" alt="Bread">
+                    <img src="images1/Interior 1/pool.jpg" width="100" alt="Bread">
                     
                 </div>
             </div>        
+            
+            <br>
+           </br>
+           </br>
+          			<section id ="vip" class="description_content">           
+           <div class="text-content container"> 
+                <div class="col-md-6">
+                       
+
+                    <h1>Ограниченное спецпредложение! Только 2 закрытых VIP-lounge-апартаментов. Роскошно и дорого</h1>
+                    
+                    		<p class="desc-text"><br>	Для тех, кто превыше всего ценит комфорт и идеальный сервис и легко может себе позволить лучшее, 
+														   <br>	кто настроен провести эту ночь как истинный монарх в компании двух, трёх, а, может, и пяти прекрасных фрейлин,
+														   		в нашем клубе мы приготовили великолепные VIP-апартаменты. 
+                    									<br>
+                    									<br>	Огромная мягкая и упругая кровать, кожаный диван, джакузи, в которой легко разместятся даже шесть человек,
+                    									<br>	неограниченное охлаждённое шампанское Martini Asti, Lambrusco Amabile и многие другие
+	                    								<br>	а также огромный выбор самого разнообразного алкоголя в баре, в том числе - виски и коньяков X.O. и V.S.O.P.,
+                    									<br>	сигары с Кубы, Гондураса, Никарагуа и Доминиканы, 
+                    									<br>	два роскошных кальяна, которые наши кальянщики будут перезабивать по первой твоей просьбе 
+                    									<br>	и специальные кнопки для вызова официанта, кальянщика или горничной, которая в любой момент с поразительной быстротой вернёт царским покоям первозданный вид,
+                    									<br>	и еще многое-многое другое всякое разное интереное;)
+                    									<br>	позволят тебе почувствовать себя королём, который решил этой ночью отметить свою очередную победу в кругу прекрасных юных фрейлин.
+                    									<br>
+                    									<br>	Мы не сомневаемся, что даже самый требовательный гость будет в восторге от такой волшебной ночи!	
+								</p>
+                </div>
+                        
+                <div class="col-md-6">
+
+                    <img src="images1/wide picture/in use/3+1.1.jpg" width="100" alt="king">                    
+                    <br>
+                    <br>
+                    <img src="images1/wide picture/in use/2.3 wide.jpg" width="100" alt="massage"> 
+                                       
+                    
+                </div>
+            </div>   
+            		</section>             
+
+            <br>		
+					</br>
+					</br>            
+            
+            <div class="text-content container"> 
+                <div class="col-md-5">
+                   <div class="img-section">
+                       <img src="images1/wide picture/in use/condom.jpg" width="100%">
+                   </div>
+                </div>
+                <br>
+                <div class="col-md-6 col-md-offset-1">
+                    <h1>Средства индивидуальной защиты</h1>
+                    
+                    <p class="desc-text"></br> Безопасность прежде всего! 
+														<br> Поэтому в каждой комнате будет 
+                    									  изобилие индивидуальных наборов антисептиков, 
+                    								<br> у каждой ванны и душа будет достаточно абсолютно новых полотелец и одноразовых 
+                    									  тапочек, 
+                    								<br> а в каждой комнате будут стоять вазы с презервативами с 
+                    									  самыми разными вкусами, среди которых даже самая привиредливая 
+                    									  красавица найдёт тот, ощущая который, ей захочется делать минет снова и снова! </p>
+                </div>
+            </div> 
             
             <br>
            </br>
@@ -474,38 +440,30 @@
                
                     <h1>Мы за конфиденциальность!</h1>
                     <!--<div class="icon-bread fa-2x"></div> -->
-                    <p class="desc-text"><br>  Мы никогда и никому не разглашаем информацию о наших клиентах.  <br> Запрещены фото- и видеоъсъёмка. <br> Мобильные телефоны, фото-и видеоаппаратура сдаётся в камеру хранения</br> Поверьте, Вам в этот вечер будет не до котиков в инстаграмчике – вокруг будет достаточно настоящих кошечек!:)</p>
+                    <p class="desc-text"><br>  Мы никогда и никому не разглашаем информацию о наших клиентах.  
+                    <br> Запрещены фото- и видеоъсъёмка. 
+                    <br> Мобильные телефоны, фото-и видеоаппаратура сдаётся в камеру хранения
+                    </br> Поверьте, Вам в этот вечер будет не до котиков в инстаграмчике – вокруг будет 
+                    достаточно настоящих кошечек!:)</p>
                 </div>
                 <div class="col-md-6">
-                    <img src="images1/wide picture/in use/pool4.jpg" width="600" alt="Bread">
+                    <img src="images1/wide picture/in use/pool4.jpg" width="100" alt="Bread">
                     
                 </div>
             </div>             
-            <!--
-            <div class="text-content container"> 
-                <div class="col-md-6">
-                    <h1>OUR BREAD</h1>
-                    <div class="icon-bread fa-2x"></div>
-                    <p class="desc-text">We love the smell of fresh baked bread. Each loaf is handmade at the crack of dawn, using only the simplest of ingredients to bring out smells and flavors that beckon the whole block. Stop by anytime and experience simplicity at its finest.</p>
-                </div>
-                <div class="col-md-6">
-                    <img src="images/bread1.jpg" width="260" alt="Bread">
-                    <img src="images/bread1.jpg" width="260" alt="Bread">
-                </div>
-            </div>
-        -->
+
 
 				
         </section>
         <!-- ============ Featured Dish  ============= -->
 
-        <section id="bread" class="description_content">
+        <section id="interior" class="description_content">
             <div  class="featured background_content">
                 <h1>Наши <span>интерьеры</span></h1>
             </div>
             <div class="text-content container"> 
                 <div class="col-md-6">
-                    <h1>Интерьер</h1>
+                    <!--<h1>Интерьер</h1>-->
                    <!-- <div class="icon-hotdog fa-2x"></div> -->
 							                    
                     <p class="desc-text"><br>Совсем скоро ты будешь здесь взлетать на вершину наслаждения снова и снова!  </p>
@@ -630,6 +588,7 @@
                 <div class="col-md-6">
                     <p class="desc-text"> <h2> Таня:</h2>
                     							<br>
+                    							<br>Вот я и дома))
                     							<br>Было чудестно!) Массаж в исполнении трёх девушек и двух мужчин – 
                     							это нечто))Танцовщица Ангелина, ты просто чудо! У тебя такие умелые 
                     							руки))) Надеюсь, тебе тоже понравилось!!)))) Рада, что ты к нам 
@@ -640,8 +599,8 @@
                 <div class="col-md-6">
                     <p class="desc-text"> <h2> <br> Алёна:</h2>
 													<br>
-													<br>Обажаю гэнг-бэнг)) Четверо мужчин сразу!!! Дима - бог анального 
-													секса! Обажаю когда в попку входят небольшим членом))) </p>
+													<br>Обажаю гэнг-бэнг)) Трое мужчин сразу!!! 
+													 Обажаю когда в попку входят небольшим членом))) </p>
                 </div>
 
                 <div class="col-md-6">
@@ -650,11 +609,15 @@
 													<br>Пришли на вечеринку с девушкой. С самого начала договорились друг 
 													друга ни в чём не ограничивать.  В бассейне познакомился с очень милой 
 													девушкой Яной, которая хотела развеяться после расставания с парнем. 
+													<br>
+													<br>
 													Выпили по коктейлю, пошли в комнату с большой кроватью. По дороге 
 													встретили еще одну девушку с очень милым лицом. Яна сразу позвала её 
 													с нами. Даже имя не спросила! Она оказалась очень горячей штучкой! 
 													Какой шикарный минет она делает! А когда они вдвоём с Яной начали 
-													сосать я кончил почти сразу. С девочкой помогли Яне пальцами и губами, 
+													<br>
+													<br>
+													сосать я кончил почти сразу. Мы с девочкой помогли Яне пальцами и губами, 
 													потом с Яной той девочке. Пошли в бар. Выпили. Встретил свою подругу. 
 													Она была с двумя довольными девочками!! Позвала с ними. Яна и другая 
 													девочка пошли с нами. Пять девушек сразу! Это было незабываемо!!! </p>
@@ -674,10 +637,14 @@
 														сразу познакомился с хорошенькой брюнеткой. Пока смотрели стрипшоу, 
 														уговорил её на минет)) Прямо у бассейна при всех)) Она в шоке я в шоке 
 														люди вокруг смотрят на нас))) Стрипка говорит смотрите ребята время не 
+														<br>
+														<br>
 														теряют вот как надо))) Потом вспомнил что администраторше коды с сайта 
 														не сказал!! Оставил девочку пошел к админке. Сказал. Она говорит дождись 
 														стрипку в синем.  Вернулся к своей девочке. Она уже сосётся ещё с одной)) 
 														Предложил и ей сделать мне минет))) Отказалась. Говорит давай но потом 
+														<br>	
+														<br>
 														не при всех))) Засосал и её)) О***нная девочка)) Стрипки закончили свои 
 														конкурсы. Мы даже не поучаствовали)) А там уже такое устроили!!) Админка 
 														показала стрипке в синем на меня. Подошла взяла за руку целую в шею позвала 
@@ -697,7 +664,7 @@
 														<br>А он стисняется, поворачивается, пытается скрыть стояк)) 
 														<br>Я стала поглаживать его по бедру) Вроде расслабился) Расстегнула ему ширинку, 
 														взяла в руку) У него был совсем небольшой. 
-														Какая разница – уже начали эту игру) Начала облизывать) У него встал ещё сильнее!) 
+														Какая разница) Начала облизывать) У него встал ещё сильнее!) 
 														Подруга меня уже полностью раздела) Подошла к нему, стала раздевать. Надела 
 														презерватив. Он вошел в меня) Он оказался просто сексуальным маньяком!!!) Нас 
 														обоих целый час трахал!) Два раза кончил!) Вот уж возбудили так возбудили!!!)
@@ -723,6 +690,7 @@
             <div class="reservation background_content">
                 <h1>Так  что тебе понравится:) Приходи!</h1>
             </div>
+        </section>
             <div class="text-content container"> 
                 <div class="inner contact">
                     <!-- Form Area -->
@@ -732,98 +700,78 @@
                             <!-- Left Inputs -->
                             <div class="container">
                             
-									<div class="right-text">
-                                            <h2>Мы ждём тебя в субботу, 30 сентября, с 20:00 до 06:00. М. Лубянка, ул. Мясницкая, 14</h2><hr>
-                                            <p> Количество гостей на вечеринке строго ограничено - 20 девушек и 15 мужчин   </p>
-                                            <p> Поэтому для того, чтобы не оказаться среди тех, кому не хватило места, необходимо зарегистрироваться <b>не позднее, чем за 24 часа до начала мероприятия!</b></p>
-                                            <p> <b>Стоимость участия: мужчины - 3000 рублей, девушки - 1000, пары - 3000</b></p>                                   
-                            </div>                            
-                            
-                            
-                            <div class="right-text">
-                                            <h2><br>Зарегистрироваться   </h2><hr>
-                                            <b>Инструкция:</b>
-
-<br>
-<br>
-
-1. Оплати регистрационный взнос. <a href="payment-pm-obmen.tv.html" target="_blank">Перейти на страницу оплаты (откроется в новой вкладке браузера)</a> <br>
-	<!--Если сайт обменника не работает, то попробуй <a href="payment-men.html" target="_blank">вот эту ссылку (откроется в новой вкладке браузера)</a>-->
-<br>2. Заполни поля заявки и впиши в неё данные твоего платежа<br>
+										<div class="right-text">
+                                            <h2>Мы ждём тебя в субботу, 21 октября, с 20:00 до 06:00. М. Лубянка, ул. Мясницкая, 14</h2><hr>
+                                            <p class="desc-text1">После регистрации мы отправим тебе на e-mail приглашение с подробной схемой прохода в наш клуб</p>                                            
+                                            <p class="desc-text1"> Количество гостей на вечеринке строго ограничено - 20 девушек и 15 мужчин   
+                                             Поэтому для того, чтобы не оказаться среди тех, кому не хватило места, необходимо зарегистрироваться <b>не позднее, чем за 12 часов</b> до начала мероприятия!</p>                                   
+                           	 </div>
+                          	</div>                                                       
+                            <section  id="registrationform"  class="description_content">
+										<h2>ЗАРЕГИСТРИРОВАТЬСЯ</h2>
+										<br><b>Выбери интересующий тариф</b>
 									 </div>
-                           		 <div class="row">
-                                    <div class="col-lg-12 col-md-12 col-xs-12">
-                                        <div class="row">
-                                            <div class="col-lg-5 col-md-6 col-xs-6">
-                                            &emsp;&emsp;&emsp;&emsp;&emsp;
-                                           <!--<button type="submit" id="submit" name="submit" onclick="javascript:window.location='ggg.html'" class="text-center form-btn form-btn">Мужчина</button>--> 
-                                                    <input type="text" name="first_name" id="first_name" required="required" class="form" placeholder="Придумай себе псевдоним для этой вечеринки:)" />
-                                                    <input type="text" name="phone" id="phone" required="required" class="form" placeholder="Телефон для связи с тобой (не обязательно)" />
-                                           <!--     <input type="text" name="last_name" id="last_name" required="required" class="form" placeholder="Last Name" />-->
-                                           <!--     <input type="text" name="state" id="state" required="required" class="form" placeholder="State" /> -->
-                                           <!--     <input type="text" name="datepicker" id="datepicker" required="required" class="form" placeholder="Reservation Date" />-->
-                                            </div>
+									 	</section>                      
+           	<div class="text-content container"> 
+                <div class="col-md-3">              
+														<p class="desc-text">                                           
+                                          <b>Юным леди</b></p>
+                                          <br>Девушкам в подарок 2 бокала шампанского для храбрости и хорошего настроения:)
+														<br>
+                                          <br>		<button type="submit" id="submit" name="submit" onclick="javascript:window.location='forms/1pay_WOMEN.html'"><b>Девушкам<br>1000 рублей</b></button> 
+                    
+                </div>
+                <div class="col-md-3">
+															<p class="desc-text">															
+															<b>Мужчинам</b></p>
+                                           <br>
+                                           <br>
+                                           <br>
+                                           <br>
+                                           <br>
+                                           <br>	<button type="submit" id="submit" name="submit" onclick="javascript:window.location='fmen/1pay_MEN.html'"><b>Мужчинам<br>3000 рублей</b></button>  
 
-                                            <div class="col-lg-4 col-md-6 col-xs-6">
-                                                <!-- Name -->
-                                             
-                                           <!--<button type="submit" id="submit" name="submit" onclick="javascript:window.location='ggg.html'" class="text-center form-btn form-btn">Девушка</button>-->                                                 		
-                                            <br>	<input type="email" name="email" id="email" required="required" class="form" placeholder="E-mail, на который мы отправим приглашение" />
-                                                	<input type="text" name="phone" id="phone" required="required" class="form" placeholder="Данные твоего регистрационного платежа" />
-                                           <!--     <input type="text" name="guest" id="guest" required="required" class="form" placeholder="Guest Number" />-->
-                                           <!--     <input type="email" name="email" id="email" required="required" class="form" placeholder="Email" />-->
-                                           <!--    <input type="text" name="subject" id="subject" required="required" class="form" placeholder="Subject" />-->
-                                            </div>
+                    
+                </div>
+            	<div class="col-md-3">
+															<p class="desc-text">															
+															<b>Парам М+Ж</b></p>
+                                           <br>
+                                           <br>
+                                           <br>
+                                           <br>
+                                           <br>
+                                           <br>		<button type="submit" id="submit" name="submit" onclick="javascript:window.location='fmen/1pay_MEN.html'"><b>Парам М+Ж<br>3000 рублей</b></button>                                                 		
 
-                                           <div class="col-lg-3 col-md-3 col-xs-6">
-                                                <!-- Name -->
-                                     			<br> 	<button type="submit" id="submit" name="submit" onclick="javascript:window.location='reg_successful.html'" class="text-center form-btn form-btn">&emsp;Отправить&emsp;&emsp;</button>      
-                                          <!-- <button type="submit" id="submit" name="submit" onclick="javascript:window.location='ggg.html'" class="text-center form-btn form-btn">Пара: м+ж</button>-->                                                 		
-                                           <!--        <input type="email" name="email" id="email" required="required" class="form" placeholder="Email" />-->
-                                           <!--     <input type="text" name="phone" id="phone" required="required" class="form" placeholder="Phone" />-->
-                                           <!--     <input type="text" name="guest" id="guest" required="required" class="form" placeholder="Guest Number" />-->
-                                           <!--     <input type="email" name="email" id="email" required="required" class="form" placeholder="Email" />-->
-                                           <!--    <input type="text" name="subject" id="subject" required="required" class="form" placeholder="Subject" />-->
-                                           </div>														
-														
-                                          <!--<div class="col-lg-3 col-md-3 col-xs-4">
-                                           <button type="submit" id="submit" name="submit" onclick="javascript:window.location='ggg.html'" class="text-center form-btn form-btn">Пара: ж+ж</button>                                                 		
-                                          </div>	-->														
-															
-                                          <!--<div class="col-xs-6 ">
-                                                <!-- Send Button -->
-                                               
-                                            <!--    <button type="submit" id="submit" name="submit" onclick="javascript:window.location='ggg.html'" class="text-center form-btn form-btn">&emsp;Отправить&emsp;&emsp;</button> 
-                                            </div>-->
-                                            
-                                        </div>
-                                    </div>
-                                    
-                                    <div class="col-lg-4 col-md-6 col-xs-12">
-                                        <!-- Message -->
-                                        <!--<div class="right-text">
-                                            <h2>Суббота</h2><hr>
-                                            <p> 16 сентября   &emsp;   18:00</p>
-                                            <p> </p>
-                                   
-                                        </div>-->
-                                    </div>
-                                </div>
-                                
-<div class="right-text">
-3. Ура! Ты успешно зарегистрировался! 
-<br>Дождись ответа от нашего администратора (как правило, администратор видит поступивший платёж через несколько часов).
-</div>                               
-                              
+                </div>
+                <div class="col-md-3">
+															<p class="desc-text">															                                          
+                                          	<b>VIP-lounge</b><a href="index.html#VIP">(подробнее)</a>
+                                          	<br>Четверг, 19.10 10:00 
+                                          	<br><p>На данный момент</p> 
+                                          	свободно: <b>2</b> из <b>2</b>
+                                          	<br>
+                                          	<br>
+                                          	</p>
+                                           <br>		<button type="submit" id="submit" name="submit" onclick="javascript:window.location='fvip/1pay_MEN.html'"><b>VIP-lounge<br>15.000 рублей</b></button>
+
+                    
+                </div>
+            </div>                                
+                               
+     
+
+                               <p class="desc-text">															                                          
+                               <br><br>Возникли вопросы? Напиши нашему администратору на <b>admin@eroticcparty.date</b>
+                               </p>
+                               <br><br>
                             </div>
-                            <!-- Clear -->
                             <div class="clear"></div>
-                        </form>
                         <div id="reserveFormResponse"></div>
                     </div><!-- End Contact Form Area -->
                 </div><!-- End Inner -->
             </div>
-        </section>
+
 
 
 
@@ -832,10 +780,10 @@
 
         <footer class="sub_footer">
             <div class="container">
-                <div class="col-md-4"><p class="sub-footer-text text-center"><!-- &copy; Restaurant 2014, Theme by <a href="https://themewagon.com/">ThemeWagon--></a></p></div>
-                <div class="col-md-4"><p class="sub-footer-text text-center"><!--Back to <a href="index.html#top">TOP</a>--></p>
+                <div class="col-md-4"><p class="sub-footer-text text-center"></a></p></div>
+                <div class="col-md-4"><p class="sub-footer-text text-center"></p>
                 </div>
-                <div class="col-md-4"><p class="sub-footer-text text-center"><!--Built With Care By <a href="index.html#" target="_blank">Us--></a></p></div>
+                <div class="col-md-4"><p class="sub-footer-text text-center"></a></p></div>
 						-->           
             </div>
         </footer>
